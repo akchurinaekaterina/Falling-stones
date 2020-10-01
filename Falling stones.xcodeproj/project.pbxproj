@@ -9,23 +9,51 @@
 /* Begin PBXBuildFile section */
 		BC0A7A96252638A2008A2F10 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0A7A95252638A2008A2F10 /* AppDelegate.swift */; };
 		BC0A7A98252638A2008A2F10 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7A97252638A2008A2F10 /* GameScene.sks */; };
-		BC0A7A9A252638A2008A2F10 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7A99252638A2008A2F10 /* Actions.sks */; };
 		BC0A7A9C252638A2008A2F10 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0A7A9B252638A2008A2F10 /* GameScene.swift */; };
 		BC0A7A9E252638A2008A2F10 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC0A7A9D252638A2008A2F10 /* GameViewController.swift */; };
 		BC0A7AA1252638A2008A2F10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7A9F252638A2008A2F10 /* Main.storyboard */; };
 		BC0A7AA3252638A8008A2F10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AA2252638A8008A2F10 /* Assets.xcassets */; };
+		BC0A7ABD252639B3008A2F10 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AAE252639B3008A2F10 /* FireParticles.sks */; };
+		BC0A7ABE252639B3008A2F10 /* ballBlue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AAF252639B3008A2F10 /* ballBlue@2x.png */; };
+		BC0A7ABF252639B3008A2F10 /* slotGlowBad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB0252639B3008A2F10 /* slotGlowBad@2x.png */; };
+		BC0A7AC0252639B3008A2F10 /* ballYellow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB1252639B3008A2F10 /* ballYellow@2x.png */; };
+		BC0A7AC1252639B3008A2F10 /* slotBaseGood@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB2252639B3008A2F10 /* slotBaseGood@2x.png */; };
+		BC0A7AC2252639B3008A2F10 /* ballPurple@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB3252639B3008A2F10 /* ballPurple@2x.png */; };
+		BC0A7AC3252639B3008A2F10 /* slotBaseBad@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB4252639B3008A2F10 /* slotBaseBad@2x.png */; };
+		BC0A7AC4252639B3008A2F10 /* ballGrey@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB5252639B3008A2F10 /* ballGrey@2x.png */; };
+		BC0A7AC5252639B3008A2F10 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB6252639B3008A2F10 /* spark.png */; };
+		BC0A7AC6252639B3008A2F10 /* bouncer@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB7252639B3008A2F10 /* bouncer@2x.png */; };
+		BC0A7AC7252639B3008A2F10 /* slotGlowGood@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB8252639B3008A2F10 /* slotGlowGood@2x.png */; };
+		BC0A7AC8252639B3008A2F10 /* ballRed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7AB9252639B3008A2F10 /* ballRed@2x.png */; };
+		BC0A7AC9252639B3008A2F10 /* ballCyan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7ABA252639B3008A2F10 /* ballCyan@2x.png */; };
+		BC0A7ACA252639B3008A2F10 /* background@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7ABB252639B3008A2F10 /* background@2x.jpg */; };
+		BC0A7ACB252639B3008A2F10 /* ballGreen@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BC0A7ABC252639B3008A2F10 /* ballGreen@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BC0A7A92252638A2008A2F10 /* Falling stones.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Falling stones.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC0A7A95252638A2008A2F10 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BC0A7A97252638A2008A2F10 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		BC0A7A99252638A2008A2F10 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		BC0A7A9B252638A2008A2F10 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		BC0A7A9D252638A2008A2F10 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		BC0A7AA0252638A2008A2F10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BC0A7AA2252638A8008A2F10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC0A7AA4252638A8008A2F10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC0A7AAE252639B3008A2F10 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
+		BC0A7AAF252639B3008A2F10 /* ballBlue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballBlue@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB0252639B3008A2F10 /* slotGlowBad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slotGlowBad@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB1252639B3008A2F10 /* ballYellow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballYellow@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB2252639B3008A2F10 /* slotBaseGood@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slotBaseGood@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB3252639B3008A2F10 /* ballPurple@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballPurple@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB4252639B3008A2F10 /* slotBaseBad@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slotBaseBad@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB5252639B3008A2F10 /* ballGrey@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballGrey@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB6252639B3008A2F10 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		BC0A7AB7252639B3008A2F10 /* bouncer@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bouncer@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB8252639B3008A2F10 /* slotGlowGood@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slotGlowGood@2x.png"; sourceTree = "<group>"; };
+		BC0A7AB9252639B3008A2F10 /* ballRed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballRed@2x.png"; sourceTree = "<group>"; };
+		BC0A7ABA252639B3008A2F10 /* ballCyan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballCyan@2x.png"; sourceTree = "<group>"; };
+		BC0A7ABB252639B3008A2F10 /* background@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background@2x.jpg"; sourceTree = "<group>"; };
+		BC0A7ABC252639B3008A2F10 /* ballGreen@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ballGreen@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,14 +88,36 @@
 			children = (
 				BC0A7A95252638A2008A2F10 /* AppDelegate.swift */,
 				BC0A7A97252638A2008A2F10 /* GameScene.sks */,
-				BC0A7A99252638A2008A2F10 /* Actions.sks */,
 				BC0A7A9B252638A2008A2F10 /* GameScene.swift */,
 				BC0A7A9D252638A2008A2F10 /* GameViewController.swift */,
 				BC0A7A9F252638A2008A2F10 /* Main.storyboard */,
 				BC0A7AA2252638A8008A2F10 /* Assets.xcassets */,
+				BC0A7AAD252639B3008A2F10 /* Content */,
 				BC0A7AA4252638A8008A2F10 /* Info.plist */,
 			);
 			path = "Falling stones";
+			sourceTree = "<group>";
+		};
+		BC0A7AAD252639B3008A2F10 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				BC0A7AAE252639B3008A2F10 /* FireParticles.sks */,
+				BC0A7AAF252639B3008A2F10 /* ballBlue@2x.png */,
+				BC0A7AB0252639B3008A2F10 /* slotGlowBad@2x.png */,
+				BC0A7AB1252639B3008A2F10 /* ballYellow@2x.png */,
+				BC0A7AB2252639B3008A2F10 /* slotBaseGood@2x.png */,
+				BC0A7AB3252639B3008A2F10 /* ballPurple@2x.png */,
+				BC0A7AB4252639B3008A2F10 /* slotBaseBad@2x.png */,
+				BC0A7AB5252639B3008A2F10 /* ballGrey@2x.png */,
+				BC0A7AB6252639B3008A2F10 /* spark.png */,
+				BC0A7AB7252639B3008A2F10 /* bouncer@2x.png */,
+				BC0A7AB8252639B3008A2F10 /* slotGlowGood@2x.png */,
+				BC0A7AB9252639B3008A2F10 /* ballRed@2x.png */,
+				BC0A7ABA252639B3008A2F10 /* ballCyan@2x.png */,
+				BC0A7ABB252639B3008A2F10 /* background@2x.jpg */,
+				BC0A7ABC252639B3008A2F10 /* ballGreen@2x.png */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,10 +177,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC0A7AC0252639B3008A2F10 /* ballYellow@2x.png in Resources */,
+				BC0A7AC5252639B3008A2F10 /* spark.png in Resources */,
+				BC0A7AC9252639B3008A2F10 /* ballCyan@2x.png in Resources */,
+				BC0A7ACA252639B3008A2F10 /* background@2x.jpg in Resources */,
+				BC0A7AC2252639B3008A2F10 /* ballPurple@2x.png in Resources */,
+				BC0A7ABE252639B3008A2F10 /* ballBlue@2x.png in Resources */,
 				BC0A7AA1252638A2008A2F10 /* Main.storyboard in Resources */,
+				BC0A7ABD252639B3008A2F10 /* FireParticles.sks in Resources */,
+				BC0A7AC3252639B3008A2F10 /* slotBaseBad@2x.png in Resources */,
+				BC0A7ACB252639B3008A2F10 /* ballGreen@2x.png in Resources */,
+				BC0A7AC8252639B3008A2F10 /* ballRed@2x.png in Resources */,
+				BC0A7ABF252639B3008A2F10 /* slotGlowBad@2x.png in Resources */,
 				BC0A7A98252638A2008A2F10 /* GameScene.sks in Resources */,
+				BC0A7AC4252639B3008A2F10 /* ballGrey@2x.png in Resources */,
+				BC0A7AC7252639B3008A2F10 /* slotGlowGood@2x.png in Resources */,
+				BC0A7AC6252639B3008A2F10 /* bouncer@2x.png in Resources */,
+				BC0A7AC1252639B3008A2F10 /* slotBaseGood@2x.png in Resources */,
 				BC0A7AA3252638A8008A2F10 /* Assets.xcassets in Resources */,
-				BC0A7A9A252638A2008A2F10 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +349,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = HFG94S52NY;
 				INFOPLIST_FILE = "Falling stones/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -292,7 +357,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ekaterinaakchurina.Falling-stones";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -304,6 +369,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = HFG94S52NY;
 				INFOPLIST_FILE = "Falling stones/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,7 +377,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ekaterinaakchurina.Falling-stones";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
