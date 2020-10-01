@@ -156,7 +156,6 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         ball.zPosition = 1
         ball.name = "ball"
         addChild(ball)
-        ballLimit -= 1
     }
     
     func removeBoxes(){
@@ -184,9 +183,9 @@ class GameScene: SKScene, SKPhysicsContactDelegate {
         if object.name == "good" {
             destroy(ball: ball)
             score += 1
-            ballLimit += 1
         } else if object.name == "bad" {
             destroy(ball: ball)
+            ballLimit -= 1
             score -= 1
         } else if object.name == "box" {
             object.removeFromParent()
